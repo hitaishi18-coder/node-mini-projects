@@ -1,0 +1,5 @@
+mongooes k andr ....
+
+we have schema - define the structure 
+    schema is a - model
+    using model we do   CRUD operations
